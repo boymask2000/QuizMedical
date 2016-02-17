@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/giovanni/AndroidStudioProjects/QuizMedical/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/home/giovanni/AndroidStudioProjects/QuizMedical/app/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/home/giovanni/AndroidStudioProjects/QuizMedical/app/build/intermediates/res/merged/debug/menu/quiz.xml",
+        "source": "/home/giovanni/AndroidStudioProjects/QuizMedical/app/src/main/res/menu/quiz.xml"
+    }
+]

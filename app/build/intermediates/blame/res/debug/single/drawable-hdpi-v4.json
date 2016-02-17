@@ -1,0 +1,246 @@
+[
+    {
+        "merged": "/home/giovanni/AndroidStudioProjects/QuizMedical/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/quiz1.png",
+        "source": "/home/giovanni/AndroidStudioProjects/QuizMedical/app/src/main/res/drawable-hdpi/quiz1.png"
+    },
+    {
+        "merged": "/home/giovanni/AndroidStudioProjects/QuizMedical/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "/home/giovanni/AndroidStudioProjects/QuizMedical/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-hdpi/abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/giovanni/AndroidStudioProjects/QuizMedical/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_search_api_mtrl_alpha.png",
+        "source": "/home/giovanni/AndroidStudioProjects/QuizMedical/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-hdpi/abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/giovanni/AndroidStudioProjects/QuizMedical/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_list_longpressed_holo.9.png",
+        "source": "/home/giovanni/AndroidStudioProjects/QuizMedical/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-hdpi/abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "/home/giovanni/AndroidStudioProjects/QuizMedical/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/stat.png",
+        "source": "/home/giovanni/AndroidStudioProjects/QuizMedical/app/src/main/res/drawable-hdpi/stat.png"
+    },
+    {
+        "merged": "/home/giovanni/AndroidStudioProjects/QuizMedical/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "/home/giovanni/AndroidStudioProjects/QuizMedical/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-hdpi/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/giovanni/AndroidStudioProjects/QuizMedical/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "/home/giovanni/AndroidStudioProjects/QuizMedical/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-hdpi/abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "/home/giovanni/AndroidStudioProjects/QuizMedical/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_menu_moreoverflow_mtrl_alpha.png",
+        "source": "/home/giovanni/AndroidStudioProjects/QuizMedical/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-hdpi/abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/giovanni/AndroidStudioProjects/QuizMedical/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/traguardo.png",
+        "source": "/home/giovanni/AndroidStudioProjects/QuizMedical/app/src/main/res/drawable-hdpi/traguardo.png"
+    },
+    {
+        "merged": "/home/giovanni/AndroidStudioProjects/QuizMedical/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "/home/giovanni/AndroidStudioProjects/QuizMedical/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-hdpi/abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/giovanni/AndroidStudioProjects/QuizMedical/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "/home/giovanni/AndroidStudioProjects/QuizMedical/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-hdpi/abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/home/giovanni/AndroidStudioProjects/QuizMedical/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_popup_background_mtrl_mult.9.png",
+        "source": "/home/giovanni/AndroidStudioProjects/QuizMedical/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-hdpi/abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/home/giovanni/AndroidStudioProjects/QuizMedical/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher.png",
+        "source": "/home/giovanni/AndroidStudioProjects/QuizMedical/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/giovanni/AndroidStudioProjects/QuizMedical/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/select_err.png",
+        "source": "/home/giovanni/AndroidStudioProjects/QuizMedical/app/src/main/res/drawable-hdpi/select_err.png"
+    },
+    {
+        "merged": "/home/giovanni/AndroidStudioProjects/QuizMedical/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "/home/giovanni/AndroidStudioProjects/QuizMedical/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-hdpi/abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "/home/giovanni/AndroidStudioProjects/QuizMedical/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "/home/giovanni/AndroidStudioProjects/QuizMedical/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-hdpi/abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/giovanni/AndroidStudioProjects/QuizMedical/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/radio_divider.xml",
+        "source": "/home/giovanni/AndroidStudioProjects/QuizMedical/app/src/main/res/drawable-hdpi/radio_divider.xml"
+    },
+    {
+        "merged": "/home/giovanni/AndroidStudioProjects/QuizMedical/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/start.png",
+        "source": "/home/giovanni/AndroidStudioProjects/QuizMedical/app/src/main/res/drawable-hdpi/start.png"
+    },
+    {
+        "merged": "/home/giovanni/AndroidStudioProjects/QuizMedical/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_btn_radio_to_on_mtrl_015.png",
+        "source": "/home/giovanni/AndroidStudioProjects/QuizMedical/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-hdpi/abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/home/giovanni/AndroidStudioProjects/QuizMedical/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/slim_spinner_normal.png",
+        "source": "/home/giovanni/AndroidStudioProjects/QuizMedical/app/src/main/res/drawable-hdpi/slim_spinner_normal.png"
+    },
+    {
+        "merged": "/home/giovanni/AndroidStudioProjects/QuizMedical/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "/home/giovanni/AndroidStudioProjects/QuizMedical/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-hdpi/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/giovanni/AndroidStudioProjects/QuizMedical/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "/home/giovanni/AndroidStudioProjects/QuizMedical/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-hdpi/abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/giovanni/AndroidStudioProjects/QuizMedical/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_list_pressed_holo_dark.9.png",
+        "source": "/home/giovanni/AndroidStudioProjects/QuizMedical/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-hdpi/abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/giovanni/AndroidStudioProjects/QuizMedical/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_clear_mtrl_alpha.png",
+        "source": "/home/giovanni/AndroidStudioProjects/QuizMedical/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-hdpi/abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/giovanni/AndroidStudioProjects/QuizMedical/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/carica.png",
+        "source": "/home/giovanni/AndroidStudioProjects/QuizMedical/app/src/main/res/drawable-hdpi/carica.png"
+    },
+    {
+        "merged": "/home/giovanni/AndroidStudioProjects/QuizMedical/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_btn_check_to_on_mtrl_000.png",
+        "source": "/home/giovanni/AndroidStudioProjects/QuizMedical/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-hdpi/abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/home/giovanni/AndroidStudioProjects/QuizMedical/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/promosso.png",
+        "source": "/home/giovanni/AndroidStudioProjects/QuizMedical/app/src/main/res/drawable-hdpi/promosso.png"
+    },
+    {
+        "merged": "/home/giovanni/AndroidStudioProjects/QuizMedical/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_list_pressed_holo_light.9.png",
+        "source": "/home/giovanni/AndroidStudioProjects/QuizMedical/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-hdpi/abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "/home/giovanni/AndroidStudioProjects/QuizMedical/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/errore.png",
+        "source": "/home/giovanni/AndroidStudioProjects/QuizMedical/app/src/main/res/drawable-hdpi/errore.png"
+    },
+    {
+        "merged": "/home/giovanni/AndroidStudioProjects/QuizMedical/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_btn_check_to_on_mtrl_015.png",
+        "source": "/home/giovanni/AndroidStudioProjects/QuizMedical/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-hdpi/abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/home/giovanni/AndroidStudioProjects/QuizMedical/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_spinner_mtrl_am_alpha.9.png",
+        "source": "/home/giovanni/AndroidStudioProjects/QuizMedical/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-hdpi/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/home/giovanni/AndroidStudioProjects/QuizMedical/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/logo.png",
+        "source": "/home/giovanni/AndroidStudioProjects/QuizMedical/app/src/main/res/drawable-hdpi/logo.png"
+    },
+    {
+        "merged": "/home/giovanni/AndroidStudioProjects/QuizMedical/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/info.png",
+        "source": "/home/giovanni/AndroidStudioProjects/QuizMedical/app/src/main/res/drawable-hdpi/info.png"
+    },
+    {
+        "merged": "/home/giovanni/AndroidStudioProjects/QuizMedical/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_go_search_api_mtrl_alpha.png",
+        "source": "/home/giovanni/AndroidStudioProjects/QuizMedical/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-hdpi/abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/giovanni/AndroidStudioProjects/QuizMedical/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/buttonstyle.xml",
+        "source": "/home/giovanni/AndroidStudioProjects/QuizMedical/app/src/main/res/drawable-hdpi/buttonstyle.xml"
+    },
+    {
+        "merged": "/home/giovanni/AndroidStudioProjects/QuizMedical/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_list_focused_holo.9.png",
+        "source": "/home/giovanni/AndroidStudioProjects/QuizMedical/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-hdpi/abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "/home/giovanni/AndroidStudioProjects/QuizMedical/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "/home/giovanni/AndroidStudioProjects/QuizMedical/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-hdpi/abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/giovanni/AndroidStudioProjects/QuizMedical/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_list_divider_mtrl_alpha.9.png",
+        "source": "/home/giovanni/AndroidStudioProjects/QuizMedical/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-hdpi/abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/giovanni/AndroidStudioProjects/QuizMedical/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_list_selector_disabled_holo_dark.9.png",
+        "source": "/home/giovanni/AndroidStudioProjects/QuizMedical/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-hdpi/abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/giovanni/AndroidStudioProjects/QuizMedical/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/spinner.png",
+        "source": "/home/giovanni/AndroidStudioProjects/QuizMedical/app/src/main/res/drawable-hdpi/spinner.png"
+    },
+    {
+        "merged": "/home/giovanni/AndroidStudioProjects/QuizMedical/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_voice_search_api_mtrl_alpha.png",
+        "source": "/home/giovanni/AndroidStudioProjects/QuizMedical/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-hdpi/abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/giovanni/AndroidStudioProjects/QuizMedical/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/home.png",
+        "source": "/home/giovanni/AndroidStudioProjects/QuizMedical/app/src/main/res/drawable-hdpi/home.png"
+    },
+    {
+        "merged": "/home/giovanni/AndroidStudioProjects/QuizMedical/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ab_share_pack_holo_dark.9.png",
+        "source": "/home/giovanni/AndroidStudioProjects/QuizMedical/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-hdpi/abc_ab_share_pack_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/giovanni/AndroidStudioProjects/QuizMedical/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ab_share_pack_holo_light.9.png",
+        "source": "/home/giovanni/AndroidStudioProjects/QuizMedical/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-hdpi/abc_ab_share_pack_holo_light.9.png"
+    },
+    {
+        "merged": "/home/giovanni/AndroidStudioProjects/QuizMedical/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "/home/giovanni/AndroidStudioProjects/QuizMedical/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-hdpi/abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/giovanni/AndroidStudioProjects/QuizMedical/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/tempo_scaduto.png",
+        "source": "/home/giovanni/AndroidStudioProjects/QuizMedical/app/src/main/res/drawable-hdpi/tempo_scaduto.png"
+    },
+    {
+        "merged": "/home/giovanni/AndroidStudioProjects/QuizMedical/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/quizbn.png",
+        "source": "/home/giovanni/AndroidStudioProjects/QuizMedical/app/src/main/res/drawable-hdpi/quizbn.png"
+    },
+    {
+        "merged": "/home/giovanni/AndroidStudioProjects/QuizMedical/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/slim_spinner_pressed.png",
+        "source": "/home/giovanni/AndroidStudioProjects/QuizMedical/app/src/main/res/drawable-hdpi/slim_spinner_pressed.png"
+    },
+    {
+        "merged": "/home/giovanni/AndroidStudioProjects/QuizMedical/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_textfield_default_mtrl_alpha.9.png",
+        "source": "/home/giovanni/AndroidStudioProjects/QuizMedical/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-hdpi/abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/giovanni/AndroidStudioProjects/QuizMedical/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/radio.xml",
+        "source": "/home/giovanni/AndroidStudioProjects/QuizMedical/app/src/main/res/drawable-hdpi/radio.xml"
+    },
+    {
+        "merged": "/home/giovanni/AndroidStudioProjects/QuizMedical/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_list_selector_disabled_holo_light.9.png",
+        "source": "/home/giovanni/AndroidStudioProjects/QuizMedical/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-hdpi/abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "/home/giovanni/AndroidStudioProjects/QuizMedical/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "/home/giovanni/AndroidStudioProjects/QuizMedical/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-hdpi/abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/giovanni/AndroidStudioProjects/QuizMedical/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/next.png",
+        "source": "/home/giovanni/AndroidStudioProjects/QuizMedical/app/src/main/res/drawable-hdpi/next.png"
+    },
+    {
+        "merged": "/home/giovanni/AndroidStudioProjects/QuizMedical/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_btn_radio_to_on_mtrl_000.png",
+        "source": "/home/giovanni/AndroidStudioProjects/QuizMedical/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-hdpi/abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/home/giovanni/AndroidStudioProjects/QuizMedical/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_menu_share_mtrl_alpha.png",
+        "source": "/home/giovanni/AndroidStudioProjects/QuizMedical/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-hdpi/abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/giovanni/AndroidStudioProjects/QuizMedical/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/next_paused.png",
+        "source": "/home/giovanni/AndroidStudioProjects/QuizMedical/app/src/main/res/drawable-hdpi/next_paused.png"
+    },
+    {
+        "merged": "/home/giovanni/AndroidStudioProjects/QuizMedical/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "/home/giovanni/AndroidStudioProjects/QuizMedical/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-hdpi/abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/giovanni/AndroidStudioProjects/QuizMedical/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "/home/giovanni/AndroidStudioProjects/QuizMedical/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-hdpi/abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/giovanni/AndroidStudioProjects/QuizMedical/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/scorcia.png",
+        "source": "/home/giovanni/AndroidStudioProjects/QuizMedical/app/src/main/res/drawable-hdpi/scorcia.png"
+    },
+    {
+        "merged": "/home/giovanni/AndroidStudioProjects/QuizMedical/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_switch_track_mtrl_alpha.9.png",
+        "source": "/home/giovanni/AndroidStudioProjects/QuizMedical/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-hdpi/abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/giovanni/AndroidStudioProjects/QuizMedical/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/select.png",
+        "source": "/home/giovanni/AndroidStudioProjects/QuizMedical/app/src/main/res/drawable-hdpi/select.png"
+    }
+]

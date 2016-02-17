@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "/home/giovanni/AndroidStudioProjects/QuizMedical/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/home/giovanni/AndroidStudioProjects/QuizMedical/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/home/giovanni/AndroidStudioProjects/QuizMedical/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/home/giovanni/AndroidStudioProjects/QuizMedical/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/home/giovanni/AndroidStudioProjects/QuizMedical/app/build/intermediates/res/merged/debug/anim/fade_out_left.xml",
+        "source": "/home/giovanni/AndroidStudioProjects/QuizMedical/app/src/main/res/anim/fade_out_left.xml"
+    },
+    {
+        "merged": "/home/giovanni/AndroidStudioProjects/QuizMedical/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/home/giovanni/AndroidStudioProjects/QuizMedical/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/home/giovanni/AndroidStudioProjects/QuizMedical/app/build/intermediates/res/merged/debug/anim/fade_in.xml",
+        "source": "/home/giovanni/AndroidStudioProjects/QuizMedical/app/src/main/res/anim/fade_in.xml"
+    },
+    {
+        "merged": "/home/giovanni/AndroidStudioProjects/QuizMedical/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/home/giovanni/AndroidStudioProjects/QuizMedical/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/home/giovanni/AndroidStudioProjects/QuizMedical/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/home/giovanni/AndroidStudioProjects/QuizMedical/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/home/giovanni/AndroidStudioProjects/QuizMedical/app/build/intermediates/res/merged/debug/anim/fade_out.xml",
+        "source": "/home/giovanni/AndroidStudioProjects/QuizMedical/app/src/main/res/anim/fade_out.xml"
+    },
+    {
+        "merged": "/home/giovanni/AndroidStudioProjects/QuizMedical/app/build/intermediates/res/merged/debug/anim/translater.xml",
+        "source": "/home/giovanni/AndroidStudioProjects/QuizMedical/app/src/main/res/anim/translater.xml"
+    },
+    {
+        "merged": "/home/giovanni/AndroidStudioProjects/QuizMedical/app/build/intermediates/res/merged/debug/anim/fade_in_left.xml",
+        "source": "/home/giovanni/AndroidStudioProjects/QuizMedical/app/src/main/res/anim/fade_in_left.xml"
+    },
+    {
+        "merged": "/home/giovanni/AndroidStudioProjects/QuizMedical/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/home/giovanni/AndroidStudioProjects/QuizMedical/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/home/giovanni/AndroidStudioProjects/QuizMedical/app/build/intermediates/res/merged/debug/anim/translatel.xml",
+        "source": "/home/giovanni/AndroidStudioProjects/QuizMedical/app/src/main/res/anim/translatel.xml"
+    }
+]

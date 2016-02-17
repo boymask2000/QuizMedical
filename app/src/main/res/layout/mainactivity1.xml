@@ -1,0 +1,85 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/layout"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical" >
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="@string/app_name" />
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <TableRow android:layout_margin="10dp" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/materia" />
+
+            <Spinner
+                android:id="@+id/materie"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+            <ImageButton
+                android:id="@+id/select_button_materia"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/spinner" />
+        </TableRow>
+
+        <TableRow android:layout_margin="10dp" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/livello" />
+
+            <Spinner
+                android:id="@+id/livello"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+            <ImageButton
+                android:id="@+id/select_button_livello"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/spinner" />
+        </TableRow>
+
+        <TableRow android:layout_margin="10dp" >
+
+            <!-- <TextView -->
+            <!-- android:layout_width="wrap_content" -->
+            <!-- android:layout_height="wrap_content" -->
+            <!-- android:text="@string/minuti" /> -->
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:labelFor="@id/minuti"
+                android:text="@string/minuti" />
+
+            <EditText
+                android:id="@+id/minuti"
+                android:layout_width="50dp"
+                android:layout_height="wrap_content"
+                android:inputType="number" />
+        </TableRow>
+
+        <Button
+            android:id="@+id/start_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="50dp"
+            android:text="@string/start_button" >
+        </Button>
+    </TableLayout>
+
+</LinearLayout>

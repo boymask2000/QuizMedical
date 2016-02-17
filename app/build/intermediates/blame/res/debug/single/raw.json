@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/giovanni/AndroidStudioProjects/QuizMedical/app/build/intermediates/res/merged/debug/raw/bomb.mp3",
+        "source": "/home/giovanni/AndroidStudioProjects/QuizMedical/app/src/main/res/raw/bomb.mp3"
+    },
+    {
+        "merged": "/home/giovanni/AndroidStudioProjects/QuizMedical/app/build/intermediates/res/merged/debug/raw/ok.mp3",
+        "source": "/home/giovanni/AndroidStudioProjects/QuizMedical/app/src/main/res/raw/ok.mp3"
+    }
+]
